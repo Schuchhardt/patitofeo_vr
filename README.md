@@ -1,6 +1,6 @@
-## aframe-react-boilerplate
+## El Patito Feo VR
 
-Boilerplate for building virtual reality experiences with
+First Project in 
 [A-Frame](https://aframe.io) and React using
 [aframe-react](https://github.com/ngokevin/aframe-react).
 
@@ -12,7 +12,7 @@ To get started:
 
 ```bash
 npm install
-npm run serve
+npm start
 ```
 
 Then head over to `http://localhost:9090`.
